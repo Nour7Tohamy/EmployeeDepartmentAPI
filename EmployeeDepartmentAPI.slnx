@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmployeeDepartment.API/PresentationAPI.csproj" />
+  <Project Path="EmployeeDepartment.Application/Application.csproj" />
+  <Project Path="EmployeeDepartment.Domain/Domain.csproj" />
+  <Project Path="EmployeeDepartment.Infrastructure/Infrastructure.csproj" />
+</Solution>
