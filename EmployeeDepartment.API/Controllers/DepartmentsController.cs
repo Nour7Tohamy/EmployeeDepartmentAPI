@@ -1,3 +1,6 @@
+using Application.CQRS.Features.Departments.Commands.CreateDepartment;
+using Application.CQRS.Features.Departments.Commands.UpdateDepartment;
+
 namespace EmployeeDepartment.API.Controllers;
 
 [ApiController]

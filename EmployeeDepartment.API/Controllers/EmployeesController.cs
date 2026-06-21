@@ -1,3 +1,6 @@
+using Application.CQRS.Features.Employees.Commands.CreateEmployee;
+using Application.CQRS.Features.Employees.Commands.UpdateEmployee;
+
 namespace EmployeeDepartment.API.Controllers;
 
 [ApiController]
